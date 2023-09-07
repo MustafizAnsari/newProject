@@ -11,6 +11,6 @@
             console.log("Error while fatching recent account"+ state);
           }
       });
-      $A.enqueueAction(action);
+      $A.enqueueAction(action); 
     }
 })
